@@ -2,3 +2,4 @@ python
 matplolib
 pandas
 pandas-datareader
+statsmodels

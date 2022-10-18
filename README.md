@@ -1,2 +1,10 @@
 # Time_Series
 * EDA
+* MA
+* AR
+* ACF
+* PACF
+* ARMA
+* ARIMA
+* SARIMAX
+* Fbprophet
