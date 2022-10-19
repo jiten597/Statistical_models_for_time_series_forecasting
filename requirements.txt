@@ -3,3 +3,4 @@ matplolib
 pandas
 pandas-datareader
 statsmodels
+prophet
